@@ -6,6 +6,10 @@
     "author": {
         "name": "LeeJinGyu"
     },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/LeeJinGue/ds-ve.git"
+    },
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
