@@ -1880,6 +1880,49 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@gyu-fe/ds-ve@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@gyu-fe/ds-ve@workspace:."
+  dependencies:
+    "@chromatic-com/storybook": "npm:1.2.26"
+    "@storybook/addon-essentials": "npm:^8.0.5"
+    "@storybook/addon-interactions": "npm:^8.0.5"
+    "@storybook/addon-links": "npm:^8.0.5"
+    "@storybook/addon-onboarding": "npm:^8.0.5"
+    "@storybook/blocks": "npm:^8.0.5"
+    "@storybook/react": "npm:^8.0.5"
+    "@storybook/react-vite": "npm:^8.0.5"
+    "@storybook/test": "npm:^8.0.5"
+    "@types/node": "npm:17.0.31"
+    "@types/react": "npm:^18.2.66"
+    "@types/react-dom": "npm:^18.2.22"
+    "@typescript-eslint/eslint-plugin": "npm:^7.2.0"
+    "@typescript-eslint/parser": "npm:^7.2.0"
+    "@vanilla-extract/css": "npm:^1.14.2"
+    "@vanilla-extract/recipes": "npm:^0.5.2"
+    "@vanilla-extract/sprinkles": "npm:^1.6.1"
+    "@vanilla-extract/vite-plugin": "npm:^4.0.7"
+    "@vitejs/plugin-react-swc": "npm:^3.5.0"
+    eslint: "npm:^8.57.0"
+    eslint-plugin-react-hooks: "npm:^4.6.0"
+    eslint-plugin-react-refresh: "npm:^0.4.6"
+    eslint-plugin-storybook: "npm:^0.8.0"
+    path: "npm:^0.12.7"
+    prettier: "npm:3.1.0"
+    react: "npm:^18.2.0"
+    react-dom: "npm:^18.2.0"
+    storybook: "npm:^8.0.5"
+    typescript: "npm:5.3.2"
+    vite: "npm:^5.2.0"
+    vite-plugin-dts: "npm:^3.8.1"
+    vite-plugin-libcss: "npm:^1.1.1"
+    vite-tsconfig-paths: "npm:^4.3.2"
+  peerDependencies:
+    react: ^18.0
+    react-dom: ^18.0
+  languageName: unknown
+  linkType: soft
+
 "@humanwhocodes/config-array@npm:^0.11.14":
   version: 0.11.14
   resolution: "@humanwhocodes/config-array@npm:0.11.14"
@@ -10221,49 +10264,6 @@ __metadata:
   checksum: 10c0/f15d588d79f3675135ba783c91a4083dcd290a2a5be9fcb6514220a1634e23df116847b1cc51f66bfb0644cf9353b2abb7815ae499bab06e46dd33c1a6bf1f4f
   languageName: node
   linkType: hard
-
-"ve-test@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "ve-test@workspace:."
-  dependencies:
-    "@chromatic-com/storybook": "npm:1.2.26"
-    "@storybook/addon-essentials": "npm:^8.0.5"
-    "@storybook/addon-interactions": "npm:^8.0.5"
-    "@storybook/addon-links": "npm:^8.0.5"
-    "@storybook/addon-onboarding": "npm:^8.0.5"
-    "@storybook/blocks": "npm:^8.0.5"
-    "@storybook/react": "npm:^8.0.5"
-    "@storybook/react-vite": "npm:^8.0.5"
-    "@storybook/test": "npm:^8.0.5"
-    "@types/node": "npm:17.0.31"
-    "@types/react": "npm:^18.2.66"
-    "@types/react-dom": "npm:^18.2.22"
-    "@typescript-eslint/eslint-plugin": "npm:^7.2.0"
-    "@typescript-eslint/parser": "npm:^7.2.0"
-    "@vanilla-extract/css": "npm:^1.14.2"
-    "@vanilla-extract/recipes": "npm:^0.5.2"
-    "@vanilla-extract/sprinkles": "npm:^1.6.1"
-    "@vanilla-extract/vite-plugin": "npm:^4.0.7"
-    "@vitejs/plugin-react-swc": "npm:^3.5.0"
-    eslint: "npm:^8.57.0"
-    eslint-plugin-react-hooks: "npm:^4.6.0"
-    eslint-plugin-react-refresh: "npm:^0.4.6"
-    eslint-plugin-storybook: "npm:^0.8.0"
-    path: "npm:^0.12.7"
-    prettier: "npm:3.1.0"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
-    storybook: "npm:^8.0.5"
-    typescript: "npm:5.3.2"
-    vite: "npm:^5.2.0"
-    vite-plugin-dts: "npm:^3.8.1"
-    vite-plugin-libcss: "npm:^1.1.1"
-    vite-tsconfig-paths: "npm:^4.3.2"
-  peerDependencies:
-    react: ^18.0
-    react-dom: ^18.0
-  languageName: unknown
-  linkType: soft
 
 "vite-node@npm:^1.2.0":
   version: 1.4.0

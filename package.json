@@ -10,6 +10,12 @@
         "type": "git",
         "url": "git://github.com/LeeJinGue/ds-ve.git"
     },
+    "files": [
+        "dist"
+    ],
+    "description": "Design System with Vanilla Extract",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",

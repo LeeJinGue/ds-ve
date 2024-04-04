@@ -1,3 +1,5 @@
-.storybook/*
-.stories/*
-.vscode/*
+node_modules
+src
+.storybook
+tsconfig.json
+public
